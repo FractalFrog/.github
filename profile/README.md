@@ -1,4 +1,6 @@
-## Hi there 👋
+![](/profile/fractal_frog_logo.png)
+
+Videogame company.
 
 <!--
 
